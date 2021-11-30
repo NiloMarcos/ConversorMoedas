@@ -1,0 +1,15 @@
+.moeda-selecionada {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+}
+
+.section-currency {
+  margin-right: 1.5rem;
+}
+
+.section-buttons {
+  margin-left: 2rem;
+  margin-top: 1.5rem;
+}
