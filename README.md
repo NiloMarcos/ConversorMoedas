@@ -31,16 +31,7 @@ Para instalar o projeto em sua maquina siga os passos abaixo.
    npm i
 
 ### Fotos da aplicação
-
-<p align="center">
-<table  style="border: none">
-  <tr>
-    <td>
-      <img src="src/assets/Print1.png">
-    </td>
-    <td>
-      <img src="src/assets/Print2.png">
-    </td>
-  </tr>
-</table>
-</p>
+<section align="center">
+  <img src="src/assets/Print1.png">
+  <img src="src/assets/Print2.png">    
+</section>
