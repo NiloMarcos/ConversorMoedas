@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './buttonConvert.css';
+import './buttonConvert.scss';
 
 export default function ButtonConvert({ calculateCurrency }) {
   return (

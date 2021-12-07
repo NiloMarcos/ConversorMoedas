@@ -1,0 +1,28 @@
+.results {
+
+  .value-converted {
+    width: 570px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 3rem;
+    background-color: rgba(190, 190, 190, 0.418);
+    border-radius: 6px;
+    margin-left: 1rem;
+    
+    h3 {
+      margin-left: 1rem;
+    }
+
+    .hour-date {
+      margin-left: 0.4rem;
+    }
+    
+    span {
+      font-size: 20px;
+      padding-left: 10px;
+      margin-left: 0.4rem;
+    }
+  }
+}

@@ -1,10 +1,10 @@
 import React from 'react';
 
-import Dashboard from './pages/Dashboard';
-import './App.css';
+import Home from './pages/Home';
+import './App.scss';
 
 function App() {
-  return <Dashboard />;
+  return <Home />;
 }
 
 export default App;
