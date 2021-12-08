@@ -30,8 +30,14 @@ Para instalar o projeto em sua maquina siga os passos abaixo.
    ```sh
    npm i
 
+4. Rode a aplicação
+
+   ```sh
+   yarn start
+   ```
+
 ### Fotos da aplicação
 <section align="center">
-  <img src="src/assets/Print1.png">
-  <img src="src/assets/Print2.png">    
+  <img src="src/assets/Conversor1.png">
+  <img src="src/assets/Conversor2.png">    
 </section>
