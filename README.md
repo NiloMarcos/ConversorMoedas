@@ -38,6 +38,6 @@ Para instalar o projeto em sua maquina siga os passos abaixo.
 
 ### Fotos da aplicação
 <section align="center">
-  <img src="src/assets/Conversor1.png">
-  <img src="src/assets/Conversor2.png">    
+  <img src="src/assets/conversor1.png">
+  <img src="src/assets/conversor2.png">    
 </section>
