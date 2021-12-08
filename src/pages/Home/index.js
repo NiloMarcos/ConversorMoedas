@@ -41,7 +41,7 @@ export default function Home() {
 
   return (
     <main className="wrapper">
-      <div className="moeda-selecionada">
+      <div className="currency-selected">
         <section className="section-currency">
           <p>Selecione a moeda na qual quer converter!</p>
           <select
